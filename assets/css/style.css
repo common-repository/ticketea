@@ -1,0 +1,111 @@
+/**
+ * Ticketea Styles
+ *
+ * @author     Ticketea
+ * @package    Ticketea\Assets\CSS
+ * @since      1.0.0
+ */
+.ticketea-wrapper {
+  margin: 0 auto;
+  padding: 0;
+  max-width: 100%;
+  min-width: 320px;
+  overflow: hidden;
+  font-weight: normal;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  color: inherit;
+}
+.ticketea-wrapper div, .ticketea-wrapper span, .ticketea-wrapper iframe, .ticketea-wrapper h2, .ticketea-wrapper p, .ticketea-wrapper a, .ticketea-wrapper strong {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+.ticketea-wrapper .ticketea-event span {
+  font-weight: normal;
+}
+.ticketea-wrapper .ticketea-event p {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+}
+.ticketea-wrapper .ticketea-event .ticketea-event-logo {
+  display: inline;
+  margin: 0 12px 25px 0;
+  width: 120px;
+  height: 120px;
+  vertical-align: top;
+  border: 1px solid #dddddd;
+  border-radius: 5px;
+  background-color: #eaeaea;
+}
+.ticketea-wrapper .ticketea-event .ticketea-event-content {
+  display: inline-block;
+  max-width: 75%;
+  min-width: 300px;
+}
+.ticketea-wrapper .ticketea-event .ticketea-event-content .ticketea-event-date,
+.ticketea-wrapper .ticketea-event .ticketea-event-content .ticketea-event-hour {
+  text-transform: uppercase;
+}
+.ticketea-wrapper .ticketea-event .ticketea-event-content .ticketea-event-venue-name {
+  font-weight: bold;
+}
+.ticketea-wrapper .ticketea-events {
+  display: block;
+}
+.ticketea-wrapper .ticketea-events .ticketea-event {
+  margin: 30px 0px 30px 0;
+  padding: 0px 0px 30px 0px;
+  border-bottom: 1px solid #dddddd;
+}
+.ticketea-wrapper .ticketea-events .ticketea-event .ticketea-event-logo {
+  width: 100px;
+  height: 100px;
+}
+.ticketea-wrapper .ticketea-events .ticketea-event .ticketea-event-content .ticketea-event-title {
+  margin-bottom: 10px;
+  vertical-align: top;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+}
+.ticketea-wrapper .ticketea-events .ticketea-event .ticketea-event-content .ticketea-event-date,
+.ticketea-wrapper .ticketea-events .ticketea-event .ticketea-event-content .ticketea-event-hour {
+  font-size: 14px;
+}
+.ticketea-wrapper .ticketea-events .ticketea-event .ticketea-event-content .ticketea-event-min-price {
+  text-transform: capitalize;
+}
+.ticketea-wrapper .ticketea-events .ticketea-event .ticketea-event-content .ticketea-event-price {
+  font-size: 16px;
+  font-weight: bold;
+}
+.ticketea-wrapper .ticketea-events .ticketea-event .ticketea-event-content .ticketea-buy-tickets {
+  margin-top: 25px;
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.ticketea-wrapper .ticketea-events .ticketea-event .ticketea-event-content .ticketea-buy-tickets a {
+  color: inherit;
+}
+.ticketea-wrapper.ticketea-wrapper-single {
+  display: block;
+}
+.ticketea-wrapper.ticketea-wrapper-single .ticketea-event {
+  margin: 30px 0px 20px 0;
+}
+.ticketea-wrapper.ticketea-wrapper-single .ticketea-event p {
+  font-size: 16px;
+}
+.ticketea-wrapper.ticketea-wrapper-single .ticketea-event .ticketea-event-content .ticketea-event-date,
+.ticketea-wrapper.ticketea-wrapper-single .ticketea-event .ticketea-event-content .ticketea-event-hour {
+  font-size: 18px;
+}
+.ticketea-wrapper.ticketea-wrapper-single .ticketea-event-checkout {
+  margin-bottom: 35px;
+}

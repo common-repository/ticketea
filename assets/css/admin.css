@@ -1,0 +1,87 @@
+/**
+ * Ticketea Admin Styles
+ *
+ * @author     Ticketea
+ * @package    Ticketea\Assets\CSS
+ * @since      1.0.0
+ */
+@font-face {
+  font-family: 'ticketea';
+  src: url("fonts/ticketea.eot");
+  src: url("fonts/ticketea.eot?#iefix") format("embedded-opentype"), url("fonts/ticketea.woff") format("woff"), url("fonts/ticketea.ttf") format("truetype"), url("fonts/ticketea.svg#ticketea") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+#adminmenu #toplevel_page_ticketea .menu-icon-generic div.wp-menu-image:before {
+  font-family: 'ticketea' !important;
+  content: "\e600";
+  font-size: 0.95em !important;
+  margin-top: 2px;
+  margin-left: -2px;
+}
+
+.regular-select,
+.regular-textarea {
+  width: 25em;
+}
+
+.tkt-dialog.no-close .ui-dialog-titlebar-close {
+  display: none;
+}
+.tkt-dialog .ui-dialog-title {
+  width: 100%;
+}
+.tkt-dialog .close-modal {
+  margin-top: 15px;
+}
+.tkt-dialog .tkt-test-filters {
+  padding: 16px;
+  text-align: center;
+}
+.tkt-dialog .tkt-test-filters p {
+  font-size: 16px;
+}
+.tkt-dialog .tkt-test-filters .tkt-spin {
+  width: auto;
+  height: auto;
+  font-size: 45px;
+  -webkit-animation: tkt-spin 2s infinite linear;
+  animation: tkt-spin 2s infinite linear;
+}
+
+@-webkit-keyframes tkt-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@keyframes tkt-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+/* Select2 fixes */
+.select2 .select2-search {
+  margin: 0;
+}
+.select2 .select2-search .select2-search__field,
+.select2 .select2-search .select2-search__field:focus {
+  padding: 1px;
+  border: none;
+  box-shadow: none;
+}
+
+@media screen and (max-width: 782px) {
+  .regular-select {
+    width: 100%;
+  }
+}

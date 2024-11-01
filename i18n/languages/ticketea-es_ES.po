@@ -1,0 +1,2460 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ticketea 1.0.0\n"
+"Report-Msgid-Bugs-To: ticketeaeng@ticketea.com\n"
+"POT-Creation-Date: 2015-07-03 09:37:42+00:00\n"
+"PO-Revision-Date: Mon May 30 2016 16:12:01 GMT+0200 (CEST)\n"
+"Last-Translator: andrea <ticketeaeng@ticketea.com>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: Spanish (Spain)\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: es_ES"
+
+#: includes/admin/class-ticketea-admin-post-types.php:662
+msgid "We are retrieving the events for your selected filters. Please wait."
+msgstr "Estamos seleccionando los eventos con los filtros seleccionados. Por favor espera."
+
+#: includes/admin/class-ticketea-admin-post-types.php:76
+msgctxt "Selecciona categoría"
+msgid "Select a category"
+msgstr "Selecciona categoría"
+
+#: includes/admin/class-ticketea-admin-post-types.php:77
+msgctxt "Selecciona tipología"
+msgid "Select a typology"
+msgstr "Selecciona tipología"
+
+#: includes/admin/class-ticketea-admin-post-types.php:78
+msgctxt "Selecciona los temas"
+msgid "Select topics"
+msgstr "Selecciona los temas"
+
+#: includes/admin/class-ticketea-admin-post-types.php:79
+#: includes/class-ticketea-ajax.php:53
+msgctxt "Debes elegir al menos un filtro."
+msgid "You must choose at least one filter."
+msgstr "Debes elegir al menos un filtro."
+
+#: includes/admin/class-ticketea-admin-post-types.php:80
+msgctxt "El filtro del ID del evento está vacío"
+msgid "The filter Events IDs is empty."
+msgstr "El filtro del ID del evento está vacío."
+
+#: includes/admin/class-ticketea-admin-post-types.php:81
+msgctxt "Probando filtros"
+msgid "Testing Filters"
+msgstr "Probando filtros"
+
+#: includes/admin/class-ticketea-admin-post-types.php:100
+msgctxt "Filtros"
+msgid "Filters"
+msgstr "Filtros"
+
+#: includes/admin/class-ticketea-admin-post-types.php:101
+#: includes/class-ticketea-post-types.php:94
+msgctxt "Eventos"
+msgid "Events"
+msgstr "Eventos"
+
+#: includes/admin/class-ticketea-admin-post-types.php:102
+msgctxt "Última sinconización"
+msgid "Last Sync"
+msgstr "Última sincronización"
+
+#: includes/admin/class-ticketea-admin-post-types.php:103
+msgctxt "Código"
+msgid "Shortcode"
+msgstr "Código"
+
+#: includes/admin/class-ticketea-admin-post-types.php:151
+msgctxt "Sincronizar la lista de eventos"
+msgid "Sync the event list"
+msgstr "Sincronizar la lista de eventos"
+
+#: includes/admin/class-ticketea-admin-post-types.php:151
+msgctxt "Sincronizar"
+msgid "Sync"
+msgstr "Sincronizar"
+
+#: includes/admin/class-ticketea-admin-post-types.php:164
+msgctxt "¡No se ha suministrado listado de eventos!"
+msgid "No Event List has been supplied!"
+msgstr "¡No se ha suministrado listado de eventos!"
+
+#: includes/admin/class-ticketea-admin-post-types.php:191
+msgctxt "Filtros del listado de eventos"
+msgid "Event List Filters"
+msgstr "Filtros del listado de eventos"
+
+#: includes/admin/class-ticketea-admin-post-types.php:201
+msgctxt "Pantalla de lista de eventos"
+msgid "Event List Display"
+msgstr "Pantalla de lista de eventos"
+
+#: includes/admin/class-ticketea-admin-post-types.php:223
+msgid "Filter the events by the following parameters:"
+msgstr "Filtrar los eventos por los siguientes parámetros:"
+
+#: includes/admin/class-ticketea-admin-post-types.php:228
+#: includes/admin/class-ticketea-admin-post-types.php:231
+msgid "Filter by"
+msgstr "Filtrar por"
+
+#: includes/admin/class-ticketea-admin-post-types.php:236
+msgid "Others"
+msgstr "Otros"
+
+#: includes/admin/class-ticketea-admin-post-types.php:253
+msgid "Choose the filters to use."
+msgstr "Elige los filtros para usar"
+
+#: includes/admin/class-ticketea-admin-post-types.php:266
+msgid "Separate the events by commas."
+msgstr "Separa los eventos por comas."
+
+#: includes/admin/class-ticketea-admin-post-types.php:313
+msgid "Separate the organizers by commas."
+msgstr "Separa los organizadores por comas."
+
+#: includes/admin/class-ticketea-admin-post-types.php:321
+msgid "Separate the venues by commas."
+msgstr "Separa los recintos por comas."
+
+#: includes/admin/class-ticketea-admin-post-types.php:329
+msgid "Separate the cities by commas."
+msgstr "Separa las ciudades por comas."
+
+#: includes/admin/class-ticketea-admin-post-types.php:337
+msgid "Separate the provinces by commas."
+msgstr "Separa las provincias por comas."
+
+#: includes/admin/class-ticketea-admin-post-types.php:365
+msgid "Test Filters"
+msgstr "Prueba los filtros"
+
+#: includes/admin/class-ticketea-admin-post-types.php:394
+msgid "Customize the event list:"
+msgstr "Customiza la lista de eventos"
+
+#: includes/admin/class-ticketea-admin-post-types.php:398
+#: includes/admin/class-ticketea-admin-post-types.php:401
+msgid "Display Information"
+msgstr "Mostrar información"
+
+#: includes/admin/class-ticketea-admin-settings.php:70
+msgid "Ticketea Settings"
+msgstr "Ajustes de ticketea"
+
+#: includes/admin/class-ticketea-admin-settings.php:70
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/admin/class-ticketea-admin-settings.php:117
+#: includes/admin/class-ticketea-admin-settings.php:135
+msgid "General"
+msgstr "General"
+
+#: includes/admin/class-ticketea-admin-settings.php:139
+msgid "Buy tickets in"
+msgstr "Comprar tickets en"
+
+#: includes/admin/class-ticketea-admin-settings.php:140
+msgid "Choose where the users can buy the tickets."
+msgstr "Elige dónde pueden comprar los usuarios sus entradas."
+
+#: includes/admin/class-ticketea-admin-settings.php:143
+msgid "Redirect to the event's page in Ticketea.com"
+msgstr "Redirigir a la página del evento en la web de ticketea."
+
+#: includes/admin/class-ticketea-admin-settings.php:144
+msgid "Buy the tickets in my website."
+msgstr "Comprar tickets en mi página web"
+
+#: includes/admin/class-ticketea-admin-settings.php:149
+msgid "Default Styles"
+msgstr "Estilos predeterminados"
+
+#: includes/admin/class-ticketea-admin-settings.php:150
+msgid "Load the default styles."
+msgstr "Cargar los estilos predeterminados."
+
+#: includes/admin/class-ticketea-admin-settings.php:151
+msgid "Disable this option if you want to load your custom styles."
+msgstr "Invalide esta opción si quiere utilizar su propio estilo."
+
+#: includes/admin/class-ticketea-admin-settings.php:158
+msgid "Affiliation Program"
+msgstr "Programa de afiliación"
+
+#: includes/admin/class-ticketea-admin-settings.php:159
+msgid "Enter your keys for the affiliation program."
+msgstr "Introduzca su clave de afiliación."
+
+#: includes/admin/class-ticketea-admin-settings.php:163
+msgid "A_AID"
+msgstr "A_AID"
+
+#: includes/admin/class-ticketea-admin-settings.php:168
+msgid "A_BID"
+msgstr "A_BID"
+
+#: includes/class-ticketea-ajax.php:62
+#, c-format
+msgid "The filters will produce a list with %s event."
+msgid_plural "The filters will produce a list with %s events."
+msgstr[0] "Los filtros crearán una lista con %s eventos."
+msgstr[1] ""
+
+#: includes/class-ticketea-ajax.php:69
+msgid "Close"
+msgstr "Cerrar"
+
+#: includes/class-ticketea-frontend.php:259
+msgid "The shortcode ID attribute is not from a published Event List."
+msgstr "Este código no es de una lista de eventos publicada."
+
+#: includes/class-ticketea-post-types.php:43
+msgid "Parent List:"
+msgstr "Lista padre:"
+
+#: includes/class-ticketea-post-types.php:45
+msgid "View List"
+msgstr "Ver lista"
+
+#: includes/class-ticketea-post-types.php:46
+msgid "Add New Event List"
+msgstr "Añadir una nueva lista de eventos"
+
+#: includes/class-ticketea-post-types.php:47
+msgid "Add Event List"
+msgstr "Añadir una lista de eventos"
+
+#: includes/class-ticketea-post-types.php:48
+msgid "Edit List"
+msgstr "Editar lista"
+
+#: includes/class-ticketea-post-types.php:49
+msgid "Update List"
+msgstr "Actualizar lista"
+
+#: includes/class-ticketea-post-types.php:50
+msgid "Search Lists"
+msgstr "Buscar lista"
+
+#: includes/class-ticketea-post-types.php:51
+#: includes/class-ticketea-post-types.php:103
+msgid "Not found"
+msgstr "No encontrada"
+
+#: includes/class-ticketea-post-types.php:52
+#: includes/class-ticketea-post-types.php:104
+msgid "Not found in Trash"
+msgstr "No encontrada en papelera"
+
+#: includes/class-ticketea-post-types.php:56
+msgid "Ticketea event list"
+msgstr "Lista de eventos de ticketea"
+
+#: includes/class-ticketea-post-types.php:57
+msgid "Ticketea event lists"
+msgstr "Listas de eventos de ticketea"
+
+#: includes/class-ticketea-post-types.php:95
+msgid "Parent Event:"
+msgstr "Evento padre:"
+
+#: includes/class-ticketea-post-types.php:96
+msgid "All Events"
+msgstr "Todos los eventos"
+
+#: includes/class-ticketea-post-types.php:97
+msgid "View Event"
+msgstr "Ver evento"
+
+#: includes/class-ticketea-post-types.php:98
+msgid "Add New Event"
+msgstr "Añadir nuevo evento"
+
+#: includes/class-ticketea-post-types.php:99
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: includes/class-ticketea-post-types.php:100
+msgid "Edit Event"
+msgstr "Editar evento"
+
+#: includes/class-ticketea-post-types.php:101
+msgid "Update Event"
+msgstr "Actualizar evento"
+
+#: includes/class-ticketea-post-types.php:102
+msgid "Search Events"
+msgstr "Buscar eventos"
+
+#: includes/class-ticketea-post-types.php:108
+msgid "Ticketea event"
+msgstr "Evento de ticketea"
+
+#: includes/class-ticketea-post-types.php:109
+msgid "Ticketea events"
+msgstr "Eventos de ticketea"
+
+#: includes/class-ticketea-singleton.php:55
+#: includes/class-ticketea-singleton.php:66
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin&#8217; huh?"
+
+#: includes/ticketea-template-functions.php:81
+msgid "Next &rarr;"
+msgstr "Siguiente &rarr;"
+
+#: includes/ticketea-template-functions.php:82
+msgid "&larr; Previous"
+msgstr "&larr; Anterior"
+
+#: includes/ticketea-template-functions.php:100
+msgid "Events navigation"
+msgstr "Navegación de eventos"
+
+#: templates/event.php:28
+#, c-format
+msgid "from %s"
+msgstr "desde %s"
+
+#: templates/event.php:50
+msgid "buy tickets"
+msgstr "Comprar entradas"
+
+#. Author of the plugin/theme
+msgid "Ticketea"
+msgstr "Ticketea"
+
+#. Author URI of the plugin/theme
+msgid "https://www.ticketea.com/"
+msgstr "https://www.ticketea.com/"
+
+#. Description of the plugin/theme
+msgid "Displays the events of Ticketea on your website."
+msgstr "Muestra los eventos de ticketea en su sitio web."
+
+#: i18n/ticketea-countries.php:17
+msgctxt "Country Name"
+msgid "Afghanistan"
+msgstr "Afganistán"
+
+#: i18n/ticketea-countries.php:18
+msgctxt "Country Name"
+msgid "&#197;land Islands"
+msgstr "Islas Aland"
+
+#: i18n/ticketea-countries.php:19
+msgctxt "Country Name"
+msgid "Albania"
+msgstr "Albania"
+
+#: i18n/ticketea-countries.php:20
+msgctxt "Country Name"
+msgid "Algeria"
+msgstr "Argelia"
+
+#: i18n/ticketea-countries.php:21
+msgctxt "Country Name"
+msgid "Andorra"
+msgstr "Andorra"
+
+#: i18n/ticketea-countries.php:22
+msgctxt "Country Name"
+msgid "Angola"
+msgstr "Angola"
+
+#: i18n/ticketea-countries.php:23
+msgctxt "Country Name"
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: i18n/ticketea-countries.php:24
+msgctxt "Country Name"
+msgid "Antarctica"
+msgstr "Antártida"
+
+#: i18n/ticketea-countries.php:25
+msgctxt "Country Name"
+msgid "Antigua and Barbuda"
+msgstr "Antigua y Barbuda"
+
+#: i18n/ticketea-countries.php:26
+msgctxt "Country Name"
+msgid "Argentina"
+msgstr "Argentina"
+
+#: i18n/ticketea-countries.php:27
+msgctxt "Country Name"
+msgid "Armenia"
+msgstr "Armenia"
+
+#: i18n/ticketea-countries.php:28
+msgctxt "Country Name"
+msgid "Aruba"
+msgstr "Aruba"
+
+#: i18n/ticketea-countries.php:29
+msgctxt "Country Name"
+msgid "Australia"
+msgstr "Australia"
+
+#: i18n/ticketea-countries.php:30
+msgctxt "Country Name"
+msgid "Austria"
+msgstr "Austria"
+
+#: i18n/ticketea-countries.php:31
+msgctxt "Country Name"
+msgid "Azerbaijan"
+msgstr "Azerbaiyán"
+
+#: i18n/ticketea-countries.php:32
+msgctxt "Country Name"
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: i18n/ticketea-countries.php:33
+msgctxt "Country Name"
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: i18n/ticketea-countries.php:34
+msgctxt "Country Name"
+msgid "Bangladesh"
+msgstr "Bangladés"
+
+#: i18n/ticketea-countries.php:35
+msgctxt "Country Name"
+msgid "Barbados"
+msgstr "Barbados"
+
+#: i18n/ticketea-countries.php:36
+msgctxt "Country Name"
+msgid "Belarus"
+msgstr "Bielorrusia"
+
+#: i18n/ticketea-countries.php:37
+msgctxt "Country Name"
+msgid "Belgium"
+msgstr "Bélgica"
+
+#: i18n/ticketea-countries.php:38
+msgctxt "Country Name"
+msgid "Belau"
+msgstr "Palaos"
+
+#: i18n/ticketea-countries.php:39
+msgctxt "Country Name"
+msgid "Belize"
+msgstr "Belice"
+
+#: i18n/ticketea-countries.php:40
+msgctxt "Country Name"
+msgid "Benin"
+msgstr "Benin"
+
+#: i18n/ticketea-countries.php:41
+msgctxt "Country Name"
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: i18n/ticketea-countries.php:42
+msgctxt "Country Name"
+msgid "Bhutan"
+msgstr "Bután"
+
+#: i18n/ticketea-countries.php:43
+msgctxt "Country Name"
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: i18n/ticketea-countries.php:44
+msgctxt "Country Name"
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr "Bonaire, Saint Eustatius y Saba"
+
+#: i18n/ticketea-countries.php:45
+msgctxt "Country Name"
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnia y Herzegovina"
+
+#: i18n/ticketea-countries.php:46
+msgctxt "Country Name"
+msgid "Botswana"
+msgstr "Botswana"
+
+#: i18n/ticketea-countries.php:47
+msgctxt "Country Name"
+msgid "Bouvet Island"
+msgstr "Isla Bouvet"
+
+#: i18n/ticketea-countries.php:48
+msgctxt "Country Name"
+msgid "Brazil"
+msgstr "Brasil"
+
+#: i18n/ticketea-countries.php:49
+msgctxt "Country Name"
+msgid "British Indian Ocean Territory"
+msgstr "Territorio Británico del Océano Índico"
+
+#: i18n/ticketea-countries.php:50
+msgctxt "Country Name"
+msgid "British Virgin Islands"
+msgstr "Islas Vírgenes Británicas"
+
+#: i18n/ticketea-countries.php:51
+msgctxt "Country Name"
+msgid "Brunei"
+msgstr "Brunéi"
+
+#: i18n/ticketea-countries.php:52
+msgctxt "Country Name"
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+#: i18n/ticketea-countries.php:53
+msgctxt "Country Name"
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: i18n/ticketea-countries.php:54
+msgctxt "Country Name"
+msgid "Burundi"
+msgstr "Burundi"
+
+#: i18n/ticketea-countries.php:55
+msgctxt "Country Name"
+msgid "Cambodia"
+msgstr "Comboya"
+
+#: i18n/ticketea-countries.php:56
+msgctxt "Country Name"
+msgid "Cameroon"
+msgstr "Camerún"
+
+#: i18n/ticketea-countries.php:57
+msgctxt "Country Name"
+msgid "Canada"
+msgstr "Canadá"
+
+#: i18n/ticketea-countries.php:58
+msgctxt "Country Name"
+msgid "Cape Verde"
+msgstr "Cape Verde"
+
+#: i18n/ticketea-countries.php:59
+msgctxt "Country Name"
+msgid "Cayman Islands"
+msgstr "Islas Caimán"
+
+#: i18n/ticketea-countries.php:60
+msgctxt "Country Name"
+msgid "Central African Republic"
+msgstr "República Centroafricana"
+
+#: i18n/ticketea-countries.php:61
+msgctxt "Country Name"
+msgid "Chad"
+msgstr "Chad"
+
+#: i18n/ticketea-countries.php:62
+msgctxt "Country Name"
+msgid "Chile"
+msgstr "Chile"
+
+#: i18n/ticketea-countries.php:63
+msgctxt "Country Name"
+msgid "China"
+msgstr "China"
+
+#: i18n/ticketea-countries.php:64
+msgctxt "Country Name"
+msgid "Christmas Island"
+msgstr "Isla de Navidad"
+
+#: i18n/ticketea-countries.php:65
+msgctxt "Country Name"
+msgid "Cocos (Keeling) Islands"
+msgstr "Cocos (Keeling) Islands"
+
+#: i18n/ticketea-countries.php:66
+msgctxt "Country Name"
+msgid "Colombia"
+msgstr "Colombia"
+
+#: i18n/ticketea-countries.php:67
+msgctxt "Country Name"
+msgid "Comoros"
+msgstr "Comoros"
+
+#: i18n/ticketea-countries.php:68
+msgctxt "Country Name"
+msgid "Congo (Brazzaville)"
+msgstr "Congo (Brazzaville)"
+
+#: i18n/ticketea-countries.php:69
+msgctxt "Country Name"
+msgid "Congo (Kinshasa)"
+msgstr "Congo (Kinshasa)"
+
+#: i18n/ticketea-countries.php:70
+msgctxt "Country Name"
+msgid "Cook Islands"
+msgstr "Islas Cook"
+
+#: i18n/ticketea-countries.php:71
+msgctxt "Country Name"
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: i18n/ticketea-countries.php:72
+msgctxt "Country Name"
+msgid "Croatia"
+msgstr "Croacia"
+
+#: i18n/ticketea-countries.php:73
+msgctxt "Country Name"
+msgid "Cuba"
+msgstr "Cuba"
+
+#: i18n/ticketea-countries.php:74
+msgctxt "Country Name"
+msgid "Cura&Ccedil;ao"
+msgstr "Curasao"
+
+#: i18n/ticketea-countries.php:75
+msgctxt "Country Name"
+msgid "Cyprus"
+msgstr "Chipre"
+
+#: i18n/ticketea-countries.php:76
+msgctxt "Country Name"
+msgid "Czech Republic"
+msgstr "República Checa"
+
+#: i18n/ticketea-countries.php:77
+msgctxt "Country Name"
+msgid "Denmark"
+msgstr "Dinamarca"
+
+#: i18n/ticketea-countries.php:78
+msgctxt "Country Name"
+msgid "Djibouti"
+msgstr "Yibuit"
+
+#: i18n/ticketea-countries.php:79
+msgctxt "Country Name"
+msgid "Dominica"
+msgstr "Dominica"
+
+#: i18n/ticketea-countries.php:80
+msgctxt "Country Name"
+msgid "Dominican Republic"
+msgstr "República Dominicana"
+
+#: i18n/ticketea-countries.php:81
+msgctxt "Country Name"
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: i18n/ticketea-countries.php:82
+msgctxt "Country Name"
+msgid "Egypt"
+msgstr "Egipto"
+
+#: i18n/ticketea-countries.php:83
+msgctxt "Country Name"
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: i18n/ticketea-countries.php:84
+msgctxt "Country Name"
+msgid "Equatorial Guinea"
+msgstr "Guinea Ecuatorial"
+
+#: i18n/ticketea-countries.php:85
+msgctxt "Country Name"
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: i18n/ticketea-countries.php:86
+msgctxt "Country Name"
+msgid "Estonia"
+msgstr "Estonia"
+
+#: i18n/ticketea-countries.php:87
+msgctxt "Country Name"
+msgid "Ethiopia"
+msgstr "Etiopía"
+
+#: i18n/ticketea-countries.php:88
+msgctxt "Country Name"
+msgid "Falkland Islands"
+msgstr "Islas Maldivas"
+
+#: i18n/ticketea-countries.php:89
+msgctxt "Country Name"
+msgid "Faroe Islands"
+msgstr "Islas Feroe "
+
+#: i18n/ticketea-countries.php:90
+msgctxt "Country Name"
+msgid "Fiji"
+msgstr "Fiyi"
+
+#: i18n/ticketea-countries.php:91
+msgctxt "Country Name"
+msgid "Finland"
+msgstr "Finlandia"
+
+#: i18n/ticketea-countries.php:92
+msgctxt "Country Name"
+msgid "France"
+msgstr "Francia"
+
+#: i18n/ticketea-countries.php:93
+msgctxt "Country Name"
+msgid "French Guiana"
+msgstr "Guayana Francesa"
+
+#: i18n/ticketea-countries.php:94
+msgctxt "Country Name"
+msgid "French Polynesia"
+msgstr "Polinesia Francesa"
+
+#: i18n/ticketea-countries.php:95
+msgctxt "Country Name"
+msgid "French Southern Territories"
+msgstr "Territorios Australes Franceses"
+
+#: i18n/ticketea-countries.php:96
+msgctxt "Country Name"
+msgid "Gabon"
+msgstr "Gabón"
+
+#: i18n/ticketea-countries.php:97
+msgctxt "Country Name"
+msgid "Gambia"
+msgstr "Gambia"
+
+#: i18n/ticketea-countries.php:98
+msgctxt "Country Name"
+msgid "Georgia"
+msgstr "Georgia"
+
+#: i18n/ticketea-countries.php:99
+msgctxt "Country Name"
+msgid "Germany"
+msgstr "Alemania"
+
+#: i18n/ticketea-countries.php:100
+msgctxt "Country Name"
+msgid "Ghana"
+msgstr "Ghana"
+
+#: i18n/ticketea-countries.php:101
+msgctxt "Country Name"
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: i18n/ticketea-countries.php:102
+msgctxt "Country Name"
+msgid "Greece"
+msgstr "Grecia"
+
+#: i18n/ticketea-countries.php:103
+msgctxt "Country Name"
+msgid "Greenland"
+msgstr "Groenlandia"
+
+#: i18n/ticketea-countries.php:104
+msgctxt "Country Name"
+msgid "Grenada"
+msgstr "Granada"
+
+#: i18n/ticketea-countries.php:105
+msgctxt "Country Name"
+msgid "Guadeloupe"
+msgstr "Guadalupe"
+
+#: i18n/ticketea-countries.php:106
+msgctxt "Country Name"
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: i18n/ticketea-countries.php:107
+msgctxt "Country Name"
+msgid "Guernsey"
+msgstr "Guernesey"
+
+#: i18n/ticketea-countries.php:108
+msgctxt "Country Name"
+msgid "Guinea"
+msgstr "Guinea"
+
+#: i18n/ticketea-countries.php:109
+msgctxt "Country Name"
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+#: i18n/ticketea-countries.php:110
+msgctxt "Country Name"
+msgid "Guyana"
+msgstr "Guayana"
+
+#: i18n/ticketea-countries.php:111
+msgctxt "Country Name"
+msgid "Haiti"
+msgstr "Haití"
+
+#: i18n/ticketea-countries.php:112
+msgctxt "Country Name"
+msgid "Heard Island and McDonald Islands"
+msgstr "Islas Heard y McDonald"
+
+#: i18n/ticketea-countries.php:113
+msgctxt "Country Name"
+msgid "Honduras"
+msgstr "Honduras"
+
+#: i18n/ticketea-countries.php:114
+msgctxt "Country Name"
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: i18n/ticketea-countries.php:115
+msgctxt "Country Name"
+msgid "Hungary"
+msgstr "Hungría"
+
+#: i18n/ticketea-countries.php:116
+msgctxt "Country Name"
+msgid "Iceland"
+msgstr "Islandia"
+
+#: i18n/ticketea-countries.php:117
+msgctxt "Country Name"
+msgid "India"
+msgstr "India"
+
+#: i18n/ticketea-countries.php:118
+msgctxt "Country Name"
+msgid "Indonesia"
+msgstr "Indonesia"
+
+#: i18n/ticketea-countries.php:119
+msgctxt "Country Name"
+msgid "Iran"
+msgstr "Irán"
+
+#: i18n/ticketea-countries.php:120
+msgctxt "Country Name"
+msgid "Iraq"
+msgstr "Irak"
+
+#: i18n/ticketea-countries.php:121
+msgctxt "Country Name"
+msgid "Republic of Ireland"
+msgstr "República de Irlanda"
+
+#: i18n/ticketea-countries.php:122
+msgctxt "Country Name"
+msgid "Isle of Man"
+msgstr "Isla de Man"
+
+#: i18n/ticketea-countries.php:123
+msgctxt "Country Name"
+msgid "Israel"
+msgstr "Israel"
+
+#: i18n/ticketea-countries.php:124
+msgctxt "Country Name"
+msgid "Italy"
+msgstr "Italia"
+
+#: i18n/ticketea-countries.php:125
+msgctxt "Country Name"
+msgid "Ivory Coast"
+msgstr "Costa de Marfil"
+
+#: i18n/ticketea-countries.php:126
+msgctxt "Country Name"
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: i18n/ticketea-countries.php:127
+msgctxt "Country Name"
+msgid "Japan"
+msgstr "Japón"
+
+#: i18n/ticketea-countries.php:128
+msgctxt "Country Name"
+msgid "Jersey"
+msgstr "Jersey"
+
+#: i18n/ticketea-countries.php:129
+msgctxt "Country Name"
+msgid "Jordan"
+msgstr "Jordán"
+
+#: i18n/ticketea-countries.php:130
+msgctxt "Country Name"
+msgid "Kazakhstan"
+msgstr "Kazajistán"
+
+#: i18n/ticketea-countries.php:131
+msgctxt "Country Name"
+msgid "Kenya"
+msgstr "Kenya"
+
+#: i18n/ticketea-countries.php:132
+msgctxt "Country Name"
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: i18n/ticketea-countries.php:133
+msgctxt "Country Name"
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: i18n/ticketea-countries.php:134
+msgctxt "Country Name"
+msgid "Kyrgyzstan"
+msgstr "Kirguistán"
+
+#: i18n/ticketea-countries.php:135
+msgctxt "Country Name"
+msgid "Laos"
+msgstr "Laos"
+
+#: i18n/ticketea-countries.php:136
+msgctxt "Country Name"
+msgid "Latvia"
+msgstr "Letonia"
+
+#: i18n/ticketea-countries.php:137
+msgctxt "Country Name"
+msgid "Lebanon"
+msgstr "Líbano"
+
+#: i18n/ticketea-countries.php:138
+msgctxt "Country Name"
+msgid "Lesotho"
+msgstr "Lesoto"
+
+#: i18n/ticketea-countries.php:139
+msgctxt "Country Name"
+msgid "Liberia"
+msgstr "Liberia"
+
+#: i18n/ticketea-countries.php:140
+msgctxt "Country Name"
+msgid "Libya"
+msgstr "Libia"
+
+#: i18n/ticketea-countries.php:141
+msgctxt "Country Name"
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: i18n/ticketea-countries.php:142
+msgctxt "Country Name"
+msgid "Lithuania"
+msgstr "Lituania"
+
+#: i18n/ticketea-countries.php:143
+msgctxt "Country Name"
+msgid "Luxembourg"
+msgstr "Luxemburgo"
+
+#: i18n/ticketea-countries.php:144
+msgctxt "Country Name"
+msgid "Macao S.A.R., China"
+msgstr "Macao S.A.R., China"
+
+#: i18n/ticketea-countries.php:145
+msgctxt "Country Name"
+msgid "Macedonia"
+msgstr "Macedonia"
+
+#: i18n/ticketea-countries.php:146
+msgctxt "Country Name"
+msgid "Madagascar"
+msgstr "Madagascar"
+
+#: i18n/ticketea-countries.php:147
+msgctxt "Country Name"
+msgid "Malawi"
+msgstr "Malawi"
+
+#: i18n/ticketea-countries.php:148
+msgctxt "Country Name"
+msgid "Malaysia"
+msgstr "Malasia"
+
+#: i18n/ticketea-countries.php:149
+msgctxt "Country Name"
+msgid "Maldives"
+msgstr "Maldivas"
+
+#: i18n/ticketea-countries.php:150
+msgctxt "Country Name"
+msgid "Mali"
+msgstr "Mali"
+
+#: i18n/ticketea-countries.php:151
+msgctxt "Country Name"
+msgid "Malta"
+msgstr "Malta"
+
+#: i18n/ticketea-countries.php:152
+msgctxt "Country Name"
+msgid "Marshall Islands"
+msgstr "Islas Marshall"
+
+#: i18n/ticketea-countries.php:153
+msgctxt "Country Name"
+msgid "Martinique"
+msgstr "Martinica"
+
+#: i18n/ticketea-countries.php:154
+msgctxt "Country Name"
+msgid "Mauritania"
+msgstr "Mauritania"
+
+#: i18n/ticketea-countries.php:155
+msgctxt "Country Name"
+msgid "Mauritius"
+msgstr "Mauricio"
+
+#: i18n/ticketea-countries.php:156
+msgctxt "Country Name"
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: i18n/ticketea-countries.php:157
+msgctxt "Country Name"
+msgid "Mexico"
+msgstr "Méjico"
+
+#: i18n/ticketea-countries.php:158
+msgctxt "Country Name"
+msgid "Micronesia"
+msgstr "Micronesia"
+
+#: i18n/ticketea-countries.php:159
+msgctxt "Country Name"
+msgid "Moldova"
+msgstr "Moldovia"
+
+#: i18n/ticketea-countries.php:160
+msgctxt "Country Name"
+msgid "Monaco"
+msgstr "Mónaco"
+
+#: i18n/ticketea-countries.php:161
+msgctxt "Country Name"
+msgid "Mongolia"
+msgstr "Mongolia"
+
+#: i18n/ticketea-countries.php:162
+msgctxt "Country Name"
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: i18n/ticketea-countries.php:163
+msgctxt "Country Name"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: i18n/ticketea-countries.php:164
+msgctxt "Country Name"
+msgid "Morocco"
+msgstr "Marruecos"
+
+#: i18n/ticketea-countries.php:165
+msgctxt "Country Name"
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: i18n/ticketea-countries.php:166
+msgctxt "Country Name"
+msgid "Myanmar"
+msgstr "Maynmar"
+
+#: i18n/ticketea-countries.php:167
+msgctxt "Country Name"
+msgid "Namibia"
+msgstr "Namibia"
+
+#: i18n/ticketea-countries.php:168
+msgctxt "Country Name"
+msgid "Nauru"
+msgstr "Nauru"
+
+#: i18n/ticketea-countries.php:169
+msgctxt "Country Name"
+msgid "Nepal"
+msgstr "Nepal"
+
+#: i18n/ticketea-countries.php:170
+msgctxt "Country Name"
+msgid "Netherlands"
+msgstr "Países Bajos"
+
+#: i18n/ticketea-countries.php:171
+msgctxt "Country Name"
+msgid "Netherlands Antilles"
+msgstr "Antillas Holandesas"
+
+#: i18n/ticketea-countries.php:172
+msgctxt "Country Name"
+msgid "New Caledonia"
+msgstr "Nueva Caledonia"
+
+#: i18n/ticketea-countries.php:173
+msgctxt "Country Name"
+msgid "New Zealand"
+msgstr "Nueva Zelanda"
+
+#: i18n/ticketea-countries.php:174
+msgctxt "Country Name"
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: i18n/ticketea-countries.php:175
+msgctxt "Country Name"
+msgid "Niger"
+msgstr "Niger"
+
+#: i18n/ticketea-countries.php:176
+msgctxt "Country Name"
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: i18n/ticketea-countries.php:177
+msgctxt "Country Name"
+msgid "Niue"
+msgstr "Niue"
+
+#: i18n/ticketea-countries.php:178
+msgctxt "Country Name"
+msgid "Norfolk Island"
+msgstr "Isla Norfolk"
+
+#: i18n/ticketea-countries.php:179
+msgctxt "Country Name"
+msgid "North Korea"
+msgstr "Korea del Norte"
+
+#: i18n/ticketea-countries.php:180
+msgctxt "Country Name"
+msgid "Norway"
+msgstr "Noruega"
+
+#: i18n/ticketea-countries.php:181
+msgctxt "Country Name"
+msgid "Oman"
+msgstr "Omán"
+
+#: i18n/ticketea-countries.php:182
+msgctxt "Country Name"
+msgid "Pakistan"
+msgstr "Pakistán"
+
+#: i18n/ticketea-countries.php:183
+msgctxt "Country Name"
+msgid "Palestinian Territory"
+msgstr "Territorio Palestino"
+
+#: i18n/ticketea-countries.php:184
+msgctxt "Country Name"
+msgid "Panama"
+msgstr "Panamá"
+
+#: i18n/ticketea-countries.php:185
+msgctxt "Country Name"
+msgid "Papua New Guinea"
+msgstr "Papúa Nueva Guinea"
+
+#: i18n/ticketea-countries.php:186
+msgctxt "Country Name"
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: i18n/ticketea-countries.php:187
+msgctxt "Country Name"
+msgid "Peru"
+msgstr "Perú"
+
+#: i18n/ticketea-countries.php:188
+msgctxt "Country Name"
+msgid "Philippines"
+msgstr "Filipinas"
+
+#: i18n/ticketea-countries.php:189
+msgctxt "Country Name"
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#: i18n/ticketea-countries.php:190
+msgctxt "Country Name"
+msgid "Poland"
+msgstr "Polonia"
+
+#: i18n/ticketea-countries.php:191
+msgctxt "Country Name"
+msgid "Portugal"
+msgstr "Portugal"
+
+#: i18n/ticketea-countries.php:192
+msgctxt "Country Name"
+msgid "Qatar"
+msgstr "Qatar"
+
+#: i18n/ticketea-countries.php:193
+msgctxt "Country Name"
+msgid "Reunion"
+msgstr "Reunion"
+
+#: i18n/ticketea-countries.php:194
+msgctxt "Country Name"
+msgid "Romania"
+msgstr "Rumanía"
+
+#: i18n/ticketea-countries.php:195
+msgctxt "Country Name"
+msgid "Russia"
+msgstr "Rusia"
+
+#: i18n/ticketea-countries.php:196
+msgctxt "Country Name"
+msgid "Rwanda"
+msgstr "Ruanda"
+
+#: i18n/ticketea-countries.php:197
+msgctxt "Country Name"
+msgid "Saint Barth&eacute;lemy"
+msgstr "San Bartolomé"
+
+#: i18n/ticketea-countries.php:198
+msgctxt "Country Name"
+msgid "Saint Helena"
+msgstr "Santa Helena"
+
+#: i18n/ticketea-countries.php:199
+msgctxt "Country Name"
+msgid "Saint Kitts and Nevis"
+msgstr "San Cristóbal y Nieves"
+
+#: i18n/ticketea-countries.php:200
+msgctxt "Country Name"
+msgid "Saint Lucia"
+msgstr "Santa Lucía"
+
+#: i18n/ticketea-countries.php:201
+msgctxt "Country Name"
+msgid "Saint Martin (French part)"
+msgstr "San Martín (parte francesa)"
+
+#: i18n/ticketea-countries.php:202
+msgctxt "Country Name"
+msgid "Saint Martin (Dutch part)"
+msgstr "San Martín (parte neerlandesa)"
+
+#: i18n/ticketea-countries.php:203
+msgctxt "Country Name"
+msgid "Saint Pierre and Miquelon"
+msgstr "San Martín (parte francesa)"
+
+#: i18n/ticketea-countries.php:204
+msgctxt "Country Name"
+msgid "Saint Vincent and the Grenadines"
+msgstr "San Vicente y las Granadinas"
+
+#: i18n/ticketea-countries.php:205
+msgctxt "Country Name"
+msgid "San Marino"
+msgstr "San Marino"
+
+#: i18n/ticketea-countries.php:206
+msgctxt "Country Name"
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr "Santo Tomé y Príncipe"
+
+#: i18n/ticketea-countries.php:207
+msgctxt "Country Name"
+msgid "Saudi Arabia"
+msgstr "Arabia Saudi "
+
+#: i18n/ticketea-countries.php:208
+msgctxt "Country Name"
+msgid "Senegal"
+msgstr "Senegal"
+
+#: i18n/ticketea-countries.php:209
+msgctxt "Country Name"
+msgid "Serbia"
+msgstr "Serbia"
+
+#: i18n/ticketea-countries.php:210
+msgctxt "Country Name"
+msgid "Seychelles"
+msgstr "Seychelles"
+
+#: i18n/ticketea-countries.php:211
+msgctxt "Country Name"
+msgid "Sierra Leone"
+msgstr "Sierra Leona"
+
+#: i18n/ticketea-countries.php:212
+msgctxt "Country Name"
+msgid "Singapore"
+msgstr "Singapur"
+
+#: i18n/ticketea-countries.php:213
+msgctxt "Country Name"
+msgid "Slovakia"
+msgstr "Eslovaquia"
+
+#: i18n/ticketea-countries.php:214
+msgctxt "Country Name"
+msgid "Slovenia"
+msgstr "Eslovenia"
+
+#: i18n/ticketea-countries.php:215
+msgctxt "Country Name"
+msgid "Solomon Islands"
+msgstr "Islas Salomón"
+
+#: i18n/ticketea-countries.php:216
+msgctxt "Country Name"
+msgid "Somalia"
+msgstr "Somalia"
+
+#: i18n/ticketea-countries.php:217
+msgctxt "Country Name"
+msgid "South Africa"
+msgstr "Sudáfrica"
+
+#: i18n/ticketea-countries.php:218
+msgctxt "Country Name"
+msgid "South Georgia/Sandwich Islands"
+msgstr "Georgia del Sur / Islas Sandwich"
+
+#: i18n/ticketea-countries.php:219
+msgctxt "Country Name"
+msgid "South Korea"
+msgstr "Korea del Sur"
+
+#: i18n/ticketea-countries.php:220
+msgctxt "Country Name"
+msgid "South Sudan"
+msgstr "Sudán del Sur"
+
+#: i18n/ticketea-countries.php:221
+msgctxt "Country Name"
+msgid "Spain"
+msgstr "España"
+
+#: i18n/ticketea-countries.php:222
+msgctxt "Country Name"
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: i18n/ticketea-countries.php:223
+msgctxt "Country Name"
+msgid "Sudan"
+msgstr "Sudán"
+
+#: i18n/ticketea-countries.php:224
+msgctxt "Country Name"
+msgid "Suriname"
+msgstr "Surinam"
+
+#: i18n/ticketea-countries.php:225
+msgctxt "Country Name"
+msgid "Svalbard and Jan Mayen"
+msgstr "Svalbard y Jan Mayen"
+
+#: i18n/ticketea-countries.php:226
+msgctxt "Country Name"
+msgid "Swaziland"
+msgstr "Swazilandia"
+
+#: i18n/ticketea-countries.php:227
+msgctxt "Country Name"
+msgid "Sweden"
+msgstr "Suecia"
+
+#: i18n/ticketea-countries.php:228
+msgctxt "Country Name"
+msgid "Switzerland"
+msgstr "Suiza"
+
+#: i18n/ticketea-countries.php:229
+msgctxt "Country Name"
+msgid "Syria"
+msgstr "Siria"
+
+#: i18n/ticketea-countries.php:230
+msgctxt "Country Name"
+msgid "Taiwan"
+msgstr "Taiwán"
+
+#: i18n/ticketea-countries.php:231
+msgctxt "Country Name"
+msgid "Tajikistan"
+msgstr "Tayikistán"
+
+#: i18n/ticketea-countries.php:232
+msgctxt "Country Name"
+msgid "Tanzania"
+msgstr "Tanzania"
+
+#: i18n/ticketea-countries.php:233
+msgctxt "Country Name"
+msgid "Thailand"
+msgstr "Tailandia"
+
+#: i18n/ticketea-countries.php:234
+msgctxt "Country Name"
+msgid "Timor-Leste"
+msgstr "Timor Oriental"
+
+#: i18n/ticketea-countries.php:235
+msgctxt "Country Name"
+msgid "Togo"
+msgstr "Togo"
+
+#: i18n/ticketea-countries.php:236
+msgctxt "Country Name"
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: i18n/ticketea-countries.php:237
+msgctxt "Country Name"
+msgid "Tonga"
+msgstr "Tonga"
+
+#: i18n/ticketea-countries.php:238
+msgctxt "Country Name"
+msgid "Trinidad and Tobago"
+msgstr "Trinidad y Tobago"
+
+#: i18n/ticketea-countries.php:239
+msgctxt "Country Name"
+msgid "Tunisia"
+msgstr "Túnez"
+
+#: i18n/ticketea-countries.php:240
+msgctxt "Country Name"
+msgid "Turkey"
+msgstr "Turquía"
+
+#: i18n/ticketea-countries.php:241
+msgctxt "Country Name"
+msgid "Turkmenistan"
+msgstr "Turkmenistán"
+
+#: i18n/ticketea-countries.php:242
+msgctxt "Country Name"
+msgid "Turks and Caicos Islands"
+msgstr "Islas Turcas y Caicos"
+
+#: i18n/ticketea-countries.php:243
+msgctxt "Country Name"
+msgid "Tuvalu"
+msgstr "Tuvlau"
+
+#: i18n/ticketea-countries.php:244
+msgctxt "Country Name"
+msgid "Uganda"
+msgstr "Uganda"
+
+#: i18n/ticketea-countries.php:245
+msgctxt "Country Name"
+msgid "Ukraine"
+msgstr "Ucrania"
+
+#: i18n/ticketea-countries.php:246
+msgctxt "Country Name"
+msgid "United Arab Emirates"
+msgstr "Emiratos Árabes Unidos"
+
+#: i18n/ticketea-countries.php:247
+msgctxt "Country Name"
+msgid "United Kingdom (UK)"
+msgstr "Reino Unido (UK)"
+
+#: i18n/ticketea-countries.php:248
+msgctxt "Country Name"
+msgid "United States (US)"
+msgstr "Estados Unidos (US)"
+
+#: i18n/ticketea-countries.php:249
+msgctxt "Country Name"
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: i18n/ticketea-countries.php:250
+msgctxt "Country Name"
+msgid "Uzbekistan"
+msgstr "Uzbekistán"
+
+#: i18n/ticketea-countries.php:251
+msgctxt "Country Name"
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: i18n/ticketea-countries.php:252
+msgctxt "Country Name"
+msgid "Vatican"
+msgstr "Vaticano"
+
+#: i18n/ticketea-countries.php:253
+msgctxt "Country Name"
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: i18n/ticketea-countries.php:254
+msgctxt "Country Name"
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: i18n/ticketea-countries.php:255
+msgctxt "Country Name"
+msgid "Wallis and Futuna"
+msgstr "Wallis y Futuna"
+
+#: i18n/ticketea-countries.php:256
+msgctxt "Country Name"
+msgid "Western Sahara"
+msgstr "Sahara Occidental"
+
+#: i18n/ticketea-countries.php:257
+msgctxt "Country Name"
+msgid "Western Samoa"
+msgstr "Samoa Occidental"
+
+#: i18n/ticketea-countries.php:258
+msgctxt "Country Name"
+msgid "Yemen"
+msgstr "Yemen"
+
+#: i18n/ticketea-countries.php:259
+msgctxt "Country Name"
+msgid "Zambia"
+msgstr "Zambia"
+
+#: i18n/ticketea-countries.php:260
+msgctxt "Country Name"
+msgid "Zimbabwe"
+msgstr "Zimbabue"
+
+#: i18n/ticketea-event-categories.php:18
+msgctxt "Event Category"
+msgid "Music"
+msgstr "Música"
+
+#: i18n/ticketea-event-categories.php:45
+msgctxt "Event Category"
+msgid "Performing Arts"
+msgstr "Artes escénicas"
+
+#: i18n/ticketea-event-categories.php:69
+msgctxt "Event Category"
+msgid "Courses & Workshops"
+msgstr "Cursos y talleres"
+
+#: i18n/ticketea-event-categories.php:104
+msgctxt "Event Category"
+msgid "Fairs & Congresses"
+msgstr "Ferias y congresos"
+
+#: i18n/ticketea-event-categories.php:138
+msgctxt "Event Category"
+msgid "Sports"
+msgstr "Deporte"
+
+#: i18n/ticketea-event-categories.php:163
+msgctxt "Event Category"
+msgid "Cinema"
+msgstr "Cine"
+
+#: i18n/ticketea-event-categories.php:187
+msgctxt "Event Category"
+msgid "Exhibitions and museums"
+msgstr "Exhibiciones y museos"
+
+#: i18n/ticketea-event-categories.php:209
+msgctxt "Event Category"
+msgid "Tourism"
+msgstr "Turismo"
+
+#: i18n/ticketea-event-categories.php:227
+msgctxt "Event Category"
+msgid "Meetings and parties"
+msgstr "Reuniones y fiestas"
+
+#: i18n/ticketea-event-categories.php:249
+msgctxt "Event Category"
+msgid "Others"
+msgstr "Otros"
+
+#: i18n/ticketea-event-categories.php:20
+msgctxt "Event Typology"
+msgid "Concert"
+msgstr "Concierto"
+
+#: i18n/ticketea-event-categories.php:21 i18n/ticketea-event-categories.php:167
+msgctxt "Event Typology"
+msgid "Festival"
+msgstr "Festival"
+
+#: i18n/ticketea-event-categories.php:22 i18n/ticketea-event-categories.php:57
+#: i18n/ticketea-event-categories.php:76 i18n/ticketea-event-categories.php:111
+#: i18n/ticketea-event-categories.php:145
+#: i18n/ticketea-event-categories.php:169
+#: i18n/ticketea-event-categories.php:191
+#: i18n/ticketea-event-categories.php:216
+#: i18n/ticketea-event-categories.php:234
+#: i18n/ticketea-event-categories.php:251
+msgctxt "Event Typology"
+msgid "Other"
+msgstr "Otro"
+
+#: i18n/ticketea-event-categories.php:47
+msgctxt "Event Typology"
+msgid "Theatre"
+msgstr "Teatro"
+
+#: i18n/ticketea-event-categories.php:48
+msgctxt "Event Typology"
+msgid "Ballet"
+msgstr "Ballet"
+
+#: i18n/ticketea-event-categories.php:49
+msgctxt "Event Typology"
+msgid "Dancing"
+msgstr "Danza"
+
+#: i18n/ticketea-event-categories.php:50
+msgctxt "Event Typology"
+msgid "Musical"
+msgstr "Musical"
+
+#: i18n/ticketea-event-categories.php:51
+msgctxt "Event Typology"
+msgid "Opera"
+msgstr "Ópera"
+
+#: i18n/ticketea-event-categories.php:52
+msgctxt "Event Typology"
+msgid "Monologue"
+msgstr "Monólogo"
+
+#: i18n/ticketea-event-categories.php:53
+msgctxt "Event Typology"
+msgid "Circus"
+msgstr "Circo"
+
+#: i18n/ticketea-event-categories.php:54
+msgctxt "Event Typology"
+msgid "Zarzuela"
+msgstr "Zarzuela"
+
+#: i18n/ticketea-event-categories.php:55
+msgctxt "Event Typology"
+msgid "Cabaret"
+msgstr "Cabaret"
+
+#: i18n/ticketea-event-categories.php:56
+msgctxt "Event Typology"
+msgid "Orchestra"
+msgstr "Orquesta"
+
+#: i18n/ticketea-event-categories.php:71
+msgctxt "Event Typology"
+msgid "Online course"
+msgstr "Curso online"
+
+#: i18n/ticketea-event-categories.php:72
+msgctxt "Event Typology"
+msgid "Talk"
+msgstr "Charla"
+
+#: i18n/ticketea-event-categories.php:73
+msgctxt "Event Typology"
+msgid "Course"
+msgstr "Curso"
+
+#: i18n/ticketea-event-categories.php:74
+msgctxt "Event Typology"
+msgid "Workshop"
+msgstr "Taller"
+
+#: i18n/ticketea-event-categories.php:75 i18n/ticketea-event-categories.php:211
+msgctxt "Event Typology"
+msgid "Tasting"
+msgstr "Cata"
+
+#: i18n/ticketea-event-categories.php:106
+msgctxt "Event Typology"
+msgid "Trade fair"
+msgstr "Feria"
+
+#: i18n/ticketea-event-categories.php:107
+msgctxt "Event Typology"
+msgid "Congress"
+msgstr "Congreso"
+
+#: i18n/ticketea-event-categories.php:108
+msgctxt "Event Typology"
+msgid "Conference"
+msgstr "Conferencia"
+
+#: i18n/ticketea-event-categories.php:109
+msgctxt "Event Typology"
+msgid "Gala & Awards"
+msgstr "Gala y premios"
+
+#: i18n/ticketea-event-categories.php:110
+#: i18n/ticketea-event-categories.php:231
+msgctxt "Event Typology"
+msgid "Networking"
+msgstr "Networking"
+
+#: i18n/ticketea-event-categories.php:140
+msgctxt "Event Typology"
+msgid "Race"
+msgstr "Carrera"
+
+#: i18n/ticketea-event-categories.php:141
+msgctxt "Event Typology"
+msgid "Match"
+msgstr "Partido"
+
+#: i18n/ticketea-event-categories.php:142
+msgctxt "Event Typology"
+msgid "Tourney/Competition"
+msgstr "Torneo/competición"
+
+#: i18n/ticketea-event-categories.php:143
+msgctxt "Event Typology"
+msgid "Training"
+msgstr "Entrenamiento"
+
+#: i18n/ticketea-event-categories.php:144
+msgctxt "Event Typology"
+msgid "Tour"
+msgstr "Tour"
+
+#: i18n/ticketea-event-categories.php:165
+msgctxt "Event Typology"
+msgid "Projection"
+msgstr "Proyección"
+
+#: i18n/ticketea-event-categories.php:166
+msgctxt "Event Typology"
+msgid "Outdoor"
+msgstr "Al aire libre"
+
+#: i18n/ticketea-event-categories.php:168
+msgctxt "Event Typology"
+msgid "Cycle"
+msgstr "Ciclo"
+
+#: i18n/ticketea-event-categories.php:189
+msgctxt "Event Typology"
+msgid "Temporal"
+msgstr "Temporal"
+
+#: i18n/ticketea-event-categories.php:190
+msgctxt "Event Typology"
+msgid "Permanent"
+msgstr "Permanente"
+
+#: i18n/ticketea-event-categories.php:212
+msgctxt "Event Typology"
+msgid "Guided visit"
+msgstr "Visita guiada"
+
+#: i18n/ticketea-event-categories.php:213
+msgctxt "Event Typology"
+msgid "Theme park"
+msgstr "Parque temático"
+
+#: i18n/ticketea-event-categories.php:214
+msgctxt "Event Typology"
+msgid "Zoo and aquarium"
+msgstr "Zoo y acuario"
+
+#: i18n/ticketea-event-categories.php:215
+msgctxt "Event Typology"
+msgid "Activities"
+msgstr "Actividades"
+
+#: i18n/ticketea-event-categories.php:229
+msgctxt "Event Typology"
+msgid "Gala and awards"
+msgstr "Gala y premios"
+
+#: i18n/ticketea-event-categories.php:230
+msgctxt "Event Typology"
+msgid "Celebration"
+msgstr "Celebración"
+
+#: i18n/ticketea-event-categories.php:232
+msgctxt "Event Typology"
+msgid "Party"
+msgstr "Fiesta"
+
+#: i18n/ticketea-event-categories.php:233
+msgctxt "Event Typology"
+msgid "Meeting"
+msgstr "Reunión"
+
+#: i18n/ticketea-event-categories.php:25
+msgctxt "Event Topic"
+msgid "Blues/Jazz"
+msgstr "Blues/Jazz"
+
+#: i18n/ticketea-event-categories.php:26
+msgctxt "Event Topic"
+msgid "Indie"
+msgstr "Indie"
+
+#: i18n/ticketea-event-categories.php:27
+msgctxt "Event Topic"
+msgid "Hard Rock/Metal"
+msgstr "Hard Rock/Metal"
+
+#: i18n/ticketea-event-categories.php:28
+msgctxt "Event Topic"
+msgid "Electronic"
+msgstr "electrónica"
+
+#: i18n/ticketea-event-categories.php:29
+msgctxt "Event Topic"
+msgid "Flamenco"
+msgstr "Flamenco"
+
+#: i18n/ticketea-event-categories.php:30
+msgctxt "Event Topic"
+msgid "Reggae"
+msgstr "Reggae"
+
+#: i18n/ticketea-event-categories.php:31
+msgctxt "Event Topic"
+msgid "Folk"
+msgstr "Folk"
+
+#: i18n/ticketea-event-categories.php:32
+msgctxt "Event Topic"
+msgid "Pop/Rock"
+msgstr "Pop/Rock"
+
+#: i18n/ticketea-event-categories.php:33
+msgctxt "Event Topic"
+msgid "World Music"
+msgstr "Música del mundo"
+
+#: i18n/ticketea-event-categories.php:34
+msgctxt "Event Topic"
+msgid "Songwritter"
+msgstr "Cantautor"
+
+#: i18n/ticketea-event-categories.php:35
+msgctxt "Event Topic"
+msgid "Classical"
+msgstr "Clásico"
+
+#: i18n/ticketea-event-categories.php:36
+msgctxt "Event Topic"
+msgid "Hip Hop/Rap"
+msgstr "Hip Hop/Rap"
+
+#: i18n/ticketea-event-categories.php:37
+msgctxt "Event Topic"
+msgid "Soul/Funk"
+msgstr "Soul/Funk"
+
+#: i18n/ticketea-event-categories.php:38
+msgctxt "Event Topic"
+msgid "Latino"
+msgstr "Latino"
+
+#: i18n/ticketea-event-categories.php:39
+msgctxt "Event Topic"
+msgid "Schlagger"
+msgstr "Schlagger"
+
+#: i18n/ticketea-event-categories.php:40 i18n/ticketea-event-categories.php:64
+#: i18n/ticketea-event-categories.php:97 i18n/ticketea-event-categories.php:129
+#: i18n/ticketea-event-categories.php:219
+msgctxt "Event Topic"
+msgid "Kids"
+msgstr "Infantil"
+
+#: i18n/ticketea-event-categories.php:41 i18n/ticketea-event-categories.php:65
+#: i18n/ticketea-event-categories.php:100
+#: i18n/ticketea-event-categories.php:134
+#: i18n/ticketea-event-categories.php:159
+#: i18n/ticketea-event-categories.php:183
+#: i18n/ticketea-event-categories.php:205
+#: i18n/ticketea-event-categories.php:223
+#: i18n/ticketea-event-categories.php:245
+#: i18n/ticketea-event-categories.php:254
+msgctxt "Event Topic"
+msgid "Other"
+msgstr "Otros"
+
+#: i18n/ticketea-event-categories.php:60
+msgctxt "Event Topic"
+msgid "Classic"
+msgstr "Clásico"
+
+#: i18n/ticketea-event-categories.php:61
+msgctxt "Event Topic"
+msgid "Comedy"
+msgstr "Comedia"
+
+#: i18n/ticketea-event-categories.php:62
+msgctxt "Event Topic"
+msgid "Tragedy"
+msgstr "Tragedia"
+
+#: i18n/ticketea-event-categories.php:63
+msgctxt "Event Topic"
+msgid "Drama"
+msgstr "Drama"
+
+#: i18n/ticketea-event-categories.php:79 i18n/ticketea-event-categories.php:114
+msgctxt "Event Topic"
+msgid "Performace arts, theater and cinema"
+msgstr "Artes escénicas, teatro y cine"
+
+#: i18n/ticketea-event-categories.php:80 i18n/ticketea-event-categories.php:115
+msgctxt "Event Topic"
+msgid "Science and research"
+msgstr "Ciencia e investigación"
+
+#: i18n/ticketea-event-categories.php:81
+msgctxt "Event Topic"
+msgid "Automotive sector"
+msgstr "Sector automovilístico"
+
+#: i18n/ticketea-event-categories.php:82 i18n/ticketea-event-categories.php:117
+msgctxt "Event Topic"
+msgid "Food, hotels and gastronomy"
+msgstr "Comida, hoteles y gastronomía"
+
+#: i18n/ticketea-event-categories.php:83 i18n/ticketea-event-categories.php:118
+msgctxt "Event Topic"
+msgid "Sports, wellness and fitness"
+msgstr "Deporte, bienestar y fitness"
+
+#: i18n/ticketea-event-categories.php:84 i18n/ticketea-event-categories.php:119
+msgctxt "Event Topic"
+msgid "Coaching and professional formation"
+msgstr "Coaching y formación profesional"
+
+#: i18n/ticketea-event-categories.php:85 i18n/ticketea-event-categories.php:120
+msgctxt "Event Topic"
+msgid "Family and education"
+msgstr "Familia y educación"
+
+#: i18n/ticketea-event-categories.php:86 i18n/ticketea-event-categories.php:202
+msgctxt "Event Topic"
+msgid "Design"
+msgstr "Diseño"
+
+#: i18n/ticketea-event-categories.php:87 i18n/ticketea-event-categories.php:122
+msgctxt "Event Topic"
+msgid "Politics"
+msgstr "Política"
+
+#: i18n/ticketea-event-categories.php:88 i18n/ticketea-event-categories.php:123
+msgctxt "Event Topic"
+msgid "Computers and technology"
+msgstr "Ordenadores y tecnología"
+
+#: i18n/ticketea-event-categories.php:89 i18n/ticketea-event-categories.php:124
+msgctxt "Event Topic"
+msgid "Fashion and beauty"
+msgstr "Moda y belleza"
+
+#: i18n/ticketea-event-categories.php:90
+msgctxt "Event Topic"
+msgid "Music"
+msgstr "Música"
+
+#: i18n/ticketea-event-categories.php:91
+msgctxt "Event Topic"
+msgid "Music and dancing"
+msgstr "Música y danza"
+
+#: i18n/ticketea-event-categories.php:92 i18n/ticketea-event-categories.php:125
+msgctxt "Event Topic"
+msgid "Marketing and advertising"
+msgstr "Marketing y publicidad"
+
+#: i18n/ticketea-event-categories.php:93
+msgctxt "Event Topic"
+msgid "Religion and spirituality"
+msgstr "Religión y espiritualidad"
+
+#: i18n/ticketea-event-categories.php:94 i18n/ticketea-event-categories.php:126
+msgctxt "Event Topic"
+msgid "Health and care"
+msgstr "Salud y bienestar"
+
+#: i18n/ticketea-event-categories.php:95
+msgctxt "Event Topic"
+msgid "Holidays"
+msgstr "Vacaciones"
+
+#: i18n/ticketea-event-categories.php:96 i18n/ticketea-event-categories.php:128
+msgctxt "Event Topic"
+msgid "Travels and outdoor activities"
+msgstr "Viajes y actividades al aire libre"
+
+#: i18n/ticketea-event-categories.php:98 i18n/ticketea-event-categories.php:130
+msgctxt "Event Topic"
+msgid "Home and lifestyle"
+msgstr "Hogar y estilo de vida"
+
+#: i18n/ticketea-event-categories.php:99 i18n/ticketea-event-categories.php:131
+msgctxt "Event Topic"
+msgid "Art and craftmanship"
+msgstr "Arte y artesanía"
+
+#: i18n/ticketea-event-categories.php:116
+msgctxt "Event Topic"
+msgid "Automotive industry"
+msgstr "Sector automovilístico"
+
+#: i18n/ticketea-event-categories.php:121
+msgctxt "Event Topic"
+msgid "Desing"
+msgstr "Diseño"
+
+#: i18n/ticketea-event-categories.php:127
+msgctxt "Event Topic"
+msgid "Leisure, tourism and entertainment"
+msgstr "Ocio, turismo y entretenimiento"
+
+#: i18n/ticketea-event-categories.php:132
+msgctxt "Event Topic"
+msgid "Agriculture, cattle raising and fishing"
+msgstr "Agricultura, ganadería y pesca"
+
+#: i18n/ticketea-event-categories.php:133
+msgctxt "Event Topic"
+msgid "Renewable energies and environment"
+msgstr "Energías renovables y medio ambiente"
+
+#: i18n/ticketea-event-categories.php:148
+msgctxt "Event Topic"
+msgid "Football"
+msgstr "Fútbol"
+
+#: i18n/ticketea-event-categories.php:149
+msgctxt "Event Topic"
+msgid "Basketball"
+msgstr "Baloncesto"
+
+#: i18n/ticketea-event-categories.php:150
+msgctxt "Event Topic"
+msgid "Handball"
+msgstr "Balonmano "
+
+#: i18n/ticketea-event-categories.php:151
+msgctxt "Event Topic"
+msgid "Indoor football"
+msgstr "Fútbol sala"
+
+#: i18n/ticketea-event-categories.php:152
+msgctxt "Event Topic"
+msgid "Padel"
+msgstr "Padel"
+
+#: i18n/ticketea-event-categories.php:153
+msgctxt "Event Topic"
+msgid "Tennis"
+msgstr "Tenis"
+
+#: i18n/ticketea-event-categories.php:154
+msgctxt "Event Topic"
+msgid "Athletics"
+msgstr "Atletismo"
+
+#: i18n/ticketea-event-categories.php:155
+msgctxt "Event Topic"
+msgid "Race"
+msgstr "Carrera"
+
+#: i18n/ticketea-event-categories.php:156
+msgctxt "Event Topic"
+msgid "Hockey"
+msgstr "Hockey"
+
+#: i18n/ticketea-event-categories.php:157
+msgctxt "Event Topic"
+msgid "Skating"
+msgstr "Patinaje"
+
+#: i18n/ticketea-event-categories.php:158
+msgctxt "Event Topic"
+msgid "Motor"
+msgstr "Motor"
+
+#: i18n/ticketea-event-categories.php:172
+msgctxt "Event Topic"
+msgid "Adults"
+msgstr "Adultos"
+
+#: i18n/ticketea-event-categories.php:173
+msgctxt "Event Topic"
+msgid "Animation"
+msgstr "Animación"
+
+#: i18n/ticketea-event-categories.php:174
+msgctxt "Event Topic"
+msgid "Commedy"
+msgstr "Comedia"
+
+#: i18n/ticketea-event-categories.php:175
+msgctxt "Event Topic"
+msgid "Horror"
+msgstr "Terror"
+
+#: i18n/ticketea-event-categories.php:176
+msgctxt "Event Topic"
+msgid "Science Fiction"
+msgstr "Ciencia ficción"
+
+#: i18n/ticketea-event-categories.php:177
+msgctxt "Event Topic"
+msgid "Romance"
+msgstr "Romance"
+
+#: i18n/ticketea-event-categories.php:178
+msgctxt "Event Topic"
+msgid "Action"
+msgstr "Acción"
+
+#: i18n/ticketea-event-categories.php:179
+msgctxt "Event Topic"
+msgid "Musical"
+msgstr "Musical"
+
+#: i18n/ticketea-event-categories.php:180
+msgctxt "Event Topic"
+msgid "Thriller"
+msgstr "Suspense"
+
+#: i18n/ticketea-event-categories.php:181
+msgctxt "Event Topic"
+msgid "Fantasy"
+msgstr "Fantasía"
+
+#: i18n/ticketea-event-categories.php:182
+msgctxt "Event Topic"
+msgid "Independent"
+msgstr "Independiente"
+
+#: i18n/ticketea-event-categories.php:194
+msgctxt "Event Topic"
+msgid "Art"
+msgstr "Arte"
+
+#: i18n/ticketea-event-categories.php:195
+msgctxt "Event Topic"
+msgid "Arqueology"
+msgstr "Arqueología"
+
+#: i18n/ticketea-event-categories.php:196
+msgctxt "Event Topic"
+msgid "Sports"
+msgstr "Deporte"
+
+#: i18n/ticketea-event-categories.php:197
+msgctxt "Event Topic"
+msgid "Photography"
+msgstr "Fotografía"
+
+#: i18n/ticketea-event-categories.php:198
+msgctxt "Event Topic"
+msgid "Painting"
+msgstr "Pintura"
+
+#: i18n/ticketea-event-categories.php:199
+msgctxt "Event Topic"
+msgid "Sculpture"
+msgstr "Escultura"
+
+#: i18n/ticketea-event-categories.php:200
+msgctxt "Event Topic"
+msgid "History"
+msgstr "Historia"
+
+#: i18n/ticketea-event-categories.php:201
+msgctxt "Event Topic"
+msgid "Fashion"
+msgstr "Moda"
+
+#: i18n/ticketea-event-categories.php:203
+msgctxt "Event Topic"
+msgid "Science"
+msgstr "Ciencia"
+
+#: i18n/ticketea-event-categories.php:204
+msgctxt "Event Topic"
+msgid "kids"
+msgstr "Infantil"
+
+#: i18n/ticketea-event-categories.php:220
+msgctxt "Event Topic"
+msgid "Gastronomy"
+msgstr "Gastronomía"
+
+#: i18n/ticketea-event-categories.php:221
+msgctxt "Event Topic"
+msgid "Nature"
+msgstr "Naturaleza"
+
+#: i18n/ticketea-event-categories.php:222
+msgctxt "Event Topic"
+msgid "Wellness"
+msgstr "Bienestar"
+
+#: i18n/ticketea-event-categories.php:237
+msgctxt "Event Topic"
+msgid "Birthday"
+msgstr "Cumpleaños"
+
+#: i18n/ticketea-event-categories.php:238
+msgctxt "Event Topic"
+msgid "Hen/Stag party"
+msgstr "Despedida de soltero"
+
+#: i18n/ticketea-event-categories.php:239
+msgctxt "Event Topic"
+msgid "Oktoberfest"
+msgstr "Oktoberfest"
+
+#: i18n/ticketea-event-categories.php:240
+msgctxt "Event Topic"
+msgid "New Year's Eve party"
+msgstr "Fiesta de nochevieja"
+
+#: i18n/ticketea-event-categories.php:241
+msgctxt "Event Topic"
+msgid "Anniversary"
+msgstr "Aniversario"
+
+#: i18n/ticketea-event-categories.php:242
+msgctxt "Event Topic"
+msgid "Office party"
+msgstr "Fiesta de empresa"
+
+#: i18n/ticketea-event-categories.php:243
+msgctxt "Event Topic"
+msgid "Carnival"
+msgstr "Carnaval"
+
+#: i18n/ticketea-event-categories.php:244
+msgctxt "Event Topic"
+msgid "Halloween"
+msgstr "Halloween"
+
+#: includes/admin/class-ticketea-admin-post-types.php:128
+msgctxt "Event List: Last Sync"
+msgid "Synchronizing"
+msgstr "Sincronizado"
+
+#: includes/admin/class-ticketea-admin-post-types.php:131
+msgctxt "Event List: Last Sync"
+msgid "Never"
+msgstr "Nunca"
+
+#: includes/admin/class-ticketea-admin-post-types.php:389
+msgctxt "Event List Display"
+msgid "Checkout Link"
+msgstr "Botón de \"comprar entradas\""
+
+#: includes/class-ticketea-post-types.php:41
+msgctxt "Post Type Singular Name"
+msgid "Event List"
+msgstr "Listado de evento"
+
+#: includes/class-ticketea-post-types.php:93
+msgctxt "Post Type Singular Name"
+msgid "Event"
+msgstr "Evento"
+
+#: includes/class-ticketea-post-types.php:74
+msgctxt "Post Type Rewrite Slug"
+msgid "events"
+msgstr "eventos"
+
+#: includes/class-ticketea-post-types.php:126
+msgctxt "Post Type Rewrite Slug"
+msgid "event"
+msgstr "evento"
+
+#: includes/ticketea-event-list-functions.php:45
+msgctxt "Filter Label"
+msgid "Events IDs"
+msgstr "IDs de eventos"
+
+#: includes/ticketea-event-list-functions.php:46
+msgctxt "Filter Label"
+msgid "Category"
+msgstr "Categoría"
+
+#: includes/ticketea-event-list-functions.php:47
+msgctxt "Filter Label"
+msgid "Typology"
+msgstr "Tipología"
+
+#: includes/ticketea-event-list-functions.php:48
+msgctxt "Filter Label"
+msgid "Topics"
+msgstr "Temas"
+
+#: includes/ticketea-event-list-functions.php:49
+msgctxt "Filter Label"
+msgid "Organizers IDs"
+msgstr "IDs de organizadores"
+
+#: includes/ticketea-event-list-functions.php:50
+msgctxt "Filter Label"
+msgid "Venues IDs"
+msgstr "IDs de recintos"
+
+#: includes/ticketea-event-list-functions.php:51
+msgctxt "Filter Label"
+msgid "Cities"
+msgstr "Ciudades"
+
+#: includes/ticketea-event-list-functions.php:52
+msgctxt "Filter Label"
+msgid "Provinces"
+msgstr "Provincias"
+
+#: includes/ticketea-event-list-functions.php:53
+msgctxt "Filter Label"
+msgid "Countries"
+msgstr "Países"
+
+#: includes/ticketea-functions.php:386
+#, c-format
+msgctxt "Price format: %1$s for the symbol and %2$s for the price"
+msgid "%1$s%2$s"
+msgstr "%1$s%2$s"
+
+#: includes/ticketea-functions.php:401
+#, c-format
+msgctxt "Datetime format: %1$s for the date and %2$s for the time"
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: includes/ticketea-functions.php:402
+msgctxt "PHP Date format"
+msgid "Y/m/d"
+msgstr "a/m/d"
+
+#: includes/ticketea-functions.php:403
+msgctxt "PHP Time format"
+msgid "H:i"
+msgstr "H:i"
+
+#: templates/no-events.php:17
+msgctxt "Template: no-events"
+msgid "The list is being synchronized at this moment. Please wait."
+msgstr "La lista se está sincronizando. Espera, por favor."
+
+#: templates/no-events.php:21
+msgctxt "Template: no-events"
+msgid "The list is empty. Try to force a sync or update the list filters."
+msgstr ""
+"La lista está vacía. Intenta sincronizarla o actualizar alguno de sus "
+"filtros."
+
+#: templates/no-events.php:27
+msgctxt "Template: no-events"
+msgid "There is no events at this moment."
+msgstr "No hay eventos en este momento."
+
+#: includes/admin/class-ticketea-admin-post-types.php:235
+msgid "Event ID"
+msgstr "ID de evento"
+
+#: includes/class-ticketea-post-types.php:44
+msgctxt "Lista de eventos"
+msgid "Event Lists"
+msgstr "Lista de eventos"
+
+#: includes/admin/class-ticketea-admin-post-types.php:418
+msgid "Choose the information to display in the list."
+msgstr "Elige la información para mostrar en la lista"
+
+#: includes/admin/class-ticketea-admin-post-types.php:75
+msgctxt "Selecciona país"
+msgid "Select countries"
+msgstr "Selecciona país"
+
+#: includes/admin/class-ticketea-admin-post-types.php:384
+msgctxt "Event List Display"
+msgid "Image"
+msgstr "Imagen"
+
+#: includes/admin/class-ticketea-admin-post-types.php:385
+msgctxt "Event List Display"
+msgid "Price"
+msgstr "Precio"
+
+#: includes/admin/class-ticketea-admin-post-types.php:386
+msgctxt "Event List Display"
+msgid "Category / Typology / Topic"
+msgstr "Categoría / Tipología / Tema"
+
+#: includes/admin/class-ticketea-admin-post-types.php:387
+msgctxt "Event List Display"
+msgid "Venue Name"
+msgstr "Nombre del recinto"
+
+#: includes/admin/class-ticketea-admin-post-types.php:388
+msgctxt "Event List Display"
+msgid "City, Province & Country"
+msgstr "Ciudad, Provincia y País"
+
+#: includes/class-ticketea-post-types.php:40
+msgctxt "Post Type General Name"
+msgid "Event Lists"
+msgstr "Lista de eventos"
+
+#: includes/class-ticketea-post-types.php:92
+msgctxt "Post Type General Name"
+msgid "Events"
+msgstr "Eventos"
